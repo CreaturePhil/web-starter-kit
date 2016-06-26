@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 module.exports = {
   entry: './src/main.js',
@@ -16,4 +16,4 @@ module.exports = {
       }
     ]
   }
-}
+};
